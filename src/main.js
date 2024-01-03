@@ -1,5 +1,5 @@
 const date = new Date();
-const day = date.getDate() + 7;
+const day = date.getDate();
 const month = date.getMonth();
 const monthYear = [
   "Janeiro",
